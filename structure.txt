@@ -1,0 +1,9 @@
+Title: What? Where? Wnen?
+Number: increment
+level of bug: design, requinroments, code and etc
+severity: blocker, major, minor, trivial[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D critical, major, minor, trivial
+priority: p1, p2, p3
+Assigned to: dev or other
+Steps
+[ADescription:
+Sreps, environment, result
